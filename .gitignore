@@ -1,0 +1,13 @@
+.env
+*.txt
+mrjob.conf
+*/mrjob.conf
+*/*/mrjob.conf
+data
+*/*.txt
+*/*/*.txt
+.DS_Store
+.idea/
+__pycache__/
+temp/
+venv
